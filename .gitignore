@@ -1,0 +1,13 @@
+/.git
+docs/generate/*.log
+docs/generate/doxygen.exe
+docs/generate/doxyindexer.exe
+examples/temp/*.jpg
+examples/temp/*.png
+examples/temp/*.svg
+examples/temp/*.svgz
+/temp
+temp/*.db
+temp/*.png
+temp/*.svg
+temp/*.svgz
